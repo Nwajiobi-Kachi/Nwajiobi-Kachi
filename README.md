@@ -1,4 +1,5 @@
-Meet Nwajiobi Emmanuel Onedikachi - your results-driven Data Analyst  
+# Nwajiobi E. Onyedikachi - your results-driven Data Analyst  
+
 ```Business & Market Intelligence Analyst```
 
 I help businesses & marketing brands by turning **sales, marketing, and customer data** into actionable growth strategies through data analysis and clear storytelling.

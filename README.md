@@ -44,7 +44,8 @@ I uncover the story behind business data to help companies:
 
 ## 📂 Featured Projects (Coming Soon)
 
-🚧 Sales Performance Dashboard  
+🚧 Clear Cut Ads Performance Dashboard - story story [View Project](https://github.com/Nwajiobi-Kachi/Power-BI)
+https://github.com/Nwajiobi-Kachi/Power-BI
 🚧 Customer Churn Analysis  
 🚧 Marketing Funnel Optimization  
 🚧 Revenue Insights Dashboard  

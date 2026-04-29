@@ -44,10 +44,9 @@ I uncover the story behind business data to help companies:
 
 ## 📂 Featured Projects
 
-🚧 Clear Cut Ads Performance Dashboard - story story [View Project](https://github.com/Nwajiobi-Kachi/Power-BI)  
-🚧 Customer Churn Analysis  
-🚧 Marketing Funnel Optimization  
-🚧 Revenue Insights Dashboard  
+📝 Clear Cut Ads Performance Dashboard - [View Project](https://github.com/Nwajiobi-Kachi/Power-BI)   
+
+🍕 Pizza-Hut Sales Performance Analysis - [View Project](https://github.com/Nwajiobi-Kachi/Excel-) A comprehensive sales intelligence report analyzing PizzaHut's sales performance of 2015. The project uncovers sales trends, top-performing pizzas, and category insights using Excel, providing actionable findings to support strategic decision-making and market growth.  
 
 ---
 
